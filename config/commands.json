@@ -1,0 +1,10 @@
+[
+  {
+    "command": "armor",
+    "role": "admin"
+  },
+  {
+    "command": "login",
+    "role": "user"
+  }
+]
